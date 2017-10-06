@@ -1,0 +1,4 @@
+ls
+echo hi
+cd /
+ls
